@@ -97,7 +97,7 @@ random places to visit
 
 # Buses schedule time
   
-![Screenshot 2023-05-31 at 16](Screenshot%202023-05-31%20at%2016.30.23.png)
+![Screenshot 2023-05-31 at 16](buses.png)
 
 
 # Useful links to figure out places to visit:
