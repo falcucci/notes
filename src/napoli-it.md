@@ -96,8 +96,6 @@ random places to visit
 - [Vesuvius ticket.pdf](https://github.com/falcucci/notes/files/11614975/Vesuvius.ticket.pdf)
 
 # Buses schedule time
-
-<img width="1506" alt="Screenshot 2023-05-31 at 16 30 23" src="https://github.com/falcucci/notes/assets/33763843/936c2bcb-e54b-4f3f-9264-051a219c89c6
   
 ![Screenshot 2023-05-31 at 16](Screenshot%202023-05-31%20at%2016.30.23.png)
 
