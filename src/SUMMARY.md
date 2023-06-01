@@ -7,7 +7,7 @@ This is just my (random) notes tree book that contains a variety of topics, rang
 It is a great way to keep track of thoughts, ideas, and important information. It can also be used to record notes from meetings, classes, and other events. The notes book is a great tool for organizing and keeping track of important information. It can also be used to jot down ideas and reminders for future reference.
 [Introduction](README.md)
 
-- [Trips](./chapter_1.md)
+- [Trips](./napoli-it.md)
 - [Outdoor Activities](./chapter_2.md)
 - [Sports](./chapter_3.md)
 - [Cooking](./chapter_4.md)
