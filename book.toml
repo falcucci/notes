@@ -1,6 +1,6 @@
 [book]
 authors = ["Alexsander Falcucci"]
 language = "en"
-multilingual = false
+multilingual = true
 src = "src"
 title = "Note tree"
