@@ -56,9 +56,9 @@ Napoli is a great destination for those looking to experience the best of Italia
 
 After a heavy and long hike we will enjoy a relaxing day in Capri.
 
-random places to visit
-|------|
-| [Castel dell'Ovo](https://en.wikipedia.org/wiki/Castel_dell%27Ovo)  |
+| random places to visit |
+| ------ |
+| [Castel dell'Ovo](https://en.wikipedia.org/wiki/Castel_dell%27Ovo) |
 | [National Archaeological Museum](https://en.wikipedia.org/wiki/National_Archaeological_Museum,_Naples)  |
 | [Piazza del Plebiscito](https://en.wikipedia.org/wiki/Piazza_del_Plebiscito)  |
 | [San Carlo Theatre](https://en.wikipedia.org/wiki/Teatro_di_San_Carlo)  |
