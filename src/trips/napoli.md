@@ -13,6 +13,8 @@ Napoli is a great destination for those looking to experience the best of Italia
 
 ### 2023-06-01
 
+Staying: [airbnb](https://www.google.com/maps/place/Gradoni+di+Chiaia,+64+Piano+IV,+80132+Napoli+NA,+Italy/@40.8354545,14.2450862,17z/data=!3m1!4b1!4m5!3m4!1s0x133b087f9f9f3f3f:0x3f8f8f8f8f8f8f8f!8m2!3d40.8354545!4d14.2472749 )
+
 | Time | Activity |
 | --- | --- |
 | 6:15  | [Departure](https://github.com/falcucci/notes/files/11615748/C9FNYC.pdf)  |
