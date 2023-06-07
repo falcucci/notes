@@ -17,5 +17,7 @@ It is a great way to keep track of thoughts, ideas, and important information. I
 - [Arts and Crafts](./chapter_7.md)
 - [Health and Wellness](./chapter_8.md)
 - [Fashion and Beauty](./chapter_9.md)
-- [Technology](./chapter_10.md)
+- [Technology](./tech.md)
+    - [Rust](./tech/rust/reading/index.md)
+        - [Memory](./tech/rust/reading/memory.md)
 
