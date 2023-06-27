@@ -22,5 +22,10 @@ You can also serve the book locally with the following command:
 ```
 mdbook serve --open 
 ```
+or
+
+```
+watchexec -r -e .md -- cargo run -- 
+```
 
 This will start a local web server and open the book in your default web browser.

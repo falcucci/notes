@@ -100,7 +100,7 @@ After a heavy and long hike we will enjoy a relaxing day in Capri.
 - [Vesuvius ticket.pdf](https://github.com/falcucci/notes/files/11614975/Vesuvius.ticket.pdf)
 
 # Buses schedule time
-  
+
 ![Screenshot 2023-05-31 at 16](buses.png)
 
 # Useful links to figure out places to visit:
