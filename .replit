@@ -1,4 +1,5 @@
-run = "cowsay Configure me!"
+language="html"
+run = "firefox ./book/index.html"
 
 [nix]
 channel = "stable-22_11"
